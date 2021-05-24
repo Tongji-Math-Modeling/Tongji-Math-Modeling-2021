@@ -30,23 +30,23 @@
 
 - 重新绘制的遗传算法流程图
 
-  ![遗传算法流程](img\遗传算法流程.png)
+  ![遗传算法流程](https://github.com/Tongji-Math-Modeling/Tongji-Math-Modeling-2021/blob/master/img/%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95%E6%B5%81%E7%A8%8B.png?raw=true)
 
 - 染色体编码
 
-  ![遗传算法流程](img\染色体编码.png)
+  ![遗传算法流程](https://github.com/Tongji-Math-Modeling/Tongji-Math-Modeling-2021/blob/master/img/%E6%9F%93%E8%89%B2%E4%BD%93%E7%BC%96%E7%A0%81.png?raw=true)
 
 - 利用python代码绘制的热力图
 
-  ![遗传算法流程](img\热力图.png)
+  ![遗传算法流程](https://github.com/Tongji-Math-Modeling/Tongji-Math-Modeling-2021/blob/master/img/%E7%83%AD%E5%8A%9B%E5%9B%BE.png?raw=true)
 
 - 分支限界法图解
 
-  ![遗传算法流程](img\分支限界法.png)
+  ![遗传算法流程](https://github.com/Tongji-Math-Modeling/Tongji-Math-Modeling-2021/blob/master/img/%E5%88%86%E6%94%AF%E9%99%90%E7%95%8C%E6%B3%95.png?raw=true)
 
 - 购物策略
 
-  ![遗传算法流程](img\购物策略图.png)
+  ![遗传算法流程](https://github.com/Tongji-Math-Modeling/Tongji-Math-Modeling-2021/blob/master/img/%E8%B4%AD%E7%89%A9%E7%AD%96%E7%95%A5%E5%9B%BE.png?raw=true)
 
 ## 收获
 
